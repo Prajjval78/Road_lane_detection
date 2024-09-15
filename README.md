@@ -30,8 +30,13 @@ To run the Sudoku solver, execute the following command:
 make run
 ```
 Makefile: Contains the instructions to compile, run, and clean the project.
+
 src/sudoku.c: The main file that initializes the puzzle and runs the solver.
+
 src/puzzle.c: Contains functions to create and print the Sudoku puzzle.
+
 src/box.c: Contains functions related to the boxes in the Sudoku puzzle.
+
 src/square.c: Contains functions related to the squares in the Sudoku puzzle.
+
 include/sudoku.h: Header file containing the definitions and declarations used across the project.
