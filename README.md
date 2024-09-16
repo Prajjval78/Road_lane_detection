@@ -1,4 +1,4 @@
-# Road Lane Detection
+# Sudoku Solver
 
 This project is a Sudoku solver implemented in C. It uses a backtracking algorithm to solve a given Sudoku puzzle.
 
